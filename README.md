@@ -16,7 +16,6 @@ AgriAgent is a full-stack web application designed to help farmers in the Jhansi
 
 To run this project, you need to start both the backend and frontend servers.
 
-### 1. Run the Backend
 Open a terminal and navigate to the `backend` directory, then run:
 ```bash
 uvicorn main:app --reload
