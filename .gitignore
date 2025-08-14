@@ -12,3 +12,6 @@ npm-debug.log*
 
 # VS Code
 .vscode/
+
+# Environment variables
+.env
